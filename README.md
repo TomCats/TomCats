@@ -1,16 +1,23 @@
-## Hi there 👋
+# TomCat's Gaming
 
-<!--
-**TomCats/TomCats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer with deep roots in the World of Warcraft community. Since 2018 I've
+been building addons that help players navigate Azeroth — rare spawns, holiday events,
+treasures, and the in-game experience powering Joana's Guides.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[TomCat's Tours](https://www.curseforge.com/wow/addons/tomcats)** — rare mob tracking,
+  holiday events, treasures, and zone-aware waypoints for WoW retail and classic
+- **[Joana's Guides](https://www.curseforge.com/wow/addons/joanasguides)** — the legendary
+  WoW Classic leveling guide, now with an in-game addon
+
+## Find Me
+
+- [X / Twitter](https://x.com/tomcatstours)
+- [Twitch](https://twitch.tv/tomcat)
+- [CurseForge](https://www.curseforge.com/wow/addons/tomcats)
+
+## Support
+
+If my addons have saved you time in Azeroth, consider sponsoring:
+[GitHub Sponsors](https://github.com/sponsors/TomCats)
